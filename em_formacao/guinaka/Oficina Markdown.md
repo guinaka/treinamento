@@ -11,4 +11,8 @@
 ---
 [Elenco](https://www.corinthians.com.br/futebol/profissional/elenco)<br>
 ![alt text](https://cdn.meutimao.com.br/fotos-do-corinthians/w941/2022/07/10/elenco_do_corinthians_antes_da_bola_rolar_9af8.jpg)<br>
-Edite o arquivo `OficinaMarkdown.md`
+Edite o arquivo `OficinaMarkdown.md`<br>
+| Jogador | Idade |
+| ----------- | ----------- |
+| Guilherme | 18 |
+| Cássio | 36 |
