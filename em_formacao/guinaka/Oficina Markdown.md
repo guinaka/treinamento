@@ -1,7 +1,7 @@
 # Corinthians 
 ## Jogadores 
 ### Titulares (**minha opinião**)
-1. ~~Carlos Miguel~~
+1. ~~Carlos Miguel~~[^1]
 2. Cacá
 3. Felix Torres
 ---
@@ -40,3 +40,4 @@ Here's a sentence with a footnote.[^1]
 - [ ] Ponta <br>
 That is so funny! :joy:<br>
 I need to highlight these ==very important words==.
+[^1]Pago a multa de 4mi de euros pelo Nothihamm Forest
