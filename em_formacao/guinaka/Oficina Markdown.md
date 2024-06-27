@@ -1,7 +1,7 @@
 # Corinthians 
 ## Jogadores 
 ### Titulares (**minha opinião**)
-1. ~~Carlos Miguel~~[^2]
+1. ~~Carlos Miguel~~ [^2]
 2. Cacá
 3. Felix Torres
 ---
