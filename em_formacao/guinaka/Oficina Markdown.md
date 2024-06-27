@@ -1,4 +1,4 @@
-# Corinthians 
+# Corinthians
 ## Jogadores 
 ### Titulares (**minha opinião**)
 1. ~~Carlos Miguel~~ [^2]
@@ -41,3 +41,4 @@ Here's a sentence with a footnote.[^1]
 That is so funny! :joy:<br>
 I need to highlight these ==very important words==.
 [^2]Pago a multa de 4mi de euros pelo Nothihamm Forest
+<center>This text is centered.</center>
