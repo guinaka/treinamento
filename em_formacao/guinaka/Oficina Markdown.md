@@ -1,7 +1,7 @@
 # Corinthians 
 ## Jogadores 
 ### Titulares (**minha opinião**)
-1. *Carlos Miguel*
+1. ~~Carlos Miguel~~
 2. Cacá
 3. Felix Torres
 ---
@@ -16,3 +16,27 @@ Edite o arquivo `OficinaMarkdown.md`<br>
 | ----------- | ----------- |
 | Guilherme | 18 |
 | Cássio | 36 |
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```python
+print("Olá")
+```
+Here's a sentence with a footnote.[^1]
+
+[^1]: This is the footnote.<br>
+~~The world is flat.~~
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+- [x] Goleiro
+- [ ] Volante
+- [ ] Ponta <br>
+That is so funny! :joy:<br>
+I need to highlight these ==very important words==.
